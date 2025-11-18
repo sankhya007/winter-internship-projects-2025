@@ -151,3 +151,4 @@ for details.
 -   Dataset sourced from California Housing Prices
 -   Scikit-learn for machine learning algorithms
 -   Matplotlib and Seaborn for visualizations
+-   png image visualization 
