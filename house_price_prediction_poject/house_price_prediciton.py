@@ -42,7 +42,7 @@ if missing_bedrooms > 0:
 print("\n3. STATISTICAL SUMMARY")
 print("=" * 50)
 
-# Calculate averages and key metrics
+# calculate averages and key metrics
 stats_data = {
     'Metric': [
         'Median House Price', 'Median Income', 'Total Rooms', 
