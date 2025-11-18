@@ -145,10 +145,11 @@ for details.
 ### 👥 Authors
 
 - **Sankhyapriyo Dey** - *Initial work* - [sankhya007](https://github.com/sankhya007)
-- 
+
 ### 🙏 Acknowledgments
 
 -   Dataset sourced from California Housing Prices
 -   Scikit-learn for machine learning algorithms
 -   Matplotlib and Seaborn for visualizations
+
 -   png image visualization 
