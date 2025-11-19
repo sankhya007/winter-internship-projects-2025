@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Winter Internship Projects 2025
 
 ## Project 1: Housing Data Analysis with Python
@@ -309,4 +308,3 @@ for details.
 -   Matplotlib and Seaborn for visualizations
 
 -   png image visualization 
->>>>>>> c0cab902b5148a0084bb4cd425d5ff03a0259b0f
