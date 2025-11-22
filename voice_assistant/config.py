@@ -1,0 +1,2 @@
+ASSISTANT_NAME = "Nova"
+WAKE_WORD = "nova"
