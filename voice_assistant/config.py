@@ -1,2 +1,3 @@
 ASSISTANT_NAME = "Nova"
-WAKE_WORD = "nova"
+WAKE_WORD = "hey nova"
+REMINDERS_FILENAME = "reminders.json"
